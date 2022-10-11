@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="list">
+        <item >Solaris</item>
+        <item >Solaris</item>
+        <item >Solaris</item>
+        <item >Solaris</item>
+        <item >Solaris</item>
+        <item >Solaris</item>
+        <item >Solaris</item>
+    </string-array>
+</resources>
