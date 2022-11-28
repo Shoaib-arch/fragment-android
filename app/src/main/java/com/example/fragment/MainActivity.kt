@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         val manager:FragmentManager=supportFragmentManager
-        val transaction : FragmentTransaction=manager. beginTransaction()
+        val transaction : FragmentTransaction=manager.beginTransaction()
 
         if(item.itemId==R.id.list1){
                transaction.replace(R.id.fragment_container,Fragment())// giving the name of first kotlin fragment
